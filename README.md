@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 UP' CS 67
 ---------
 
-I've been a developer
+I've been a developer eiei
 
 * 🌍  I'm based in I'm based in Phayao, Thailand
 * ✉️  You can contact me at [cuxaphrn@gmail.com](mailto:cuxaphrn@gmail.com)
